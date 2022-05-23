@@ -2,7 +2,7 @@
   "Author": "ascclemens",
   "Name": "Peeping Tom",
   "InternalName": "PeepingTom",
-  "AssemblyVersion": "1.7.9",
+  "AssemblyVersion": "1.8",
   "Description": "Shows who is currently or was previously targeting you.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://git.annaclemens.io/ascclemens/PeepingTom",
