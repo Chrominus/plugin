@@ -1,7 +1,7 @@
 [
   {
     "Author":"Caraxi",
-    "Name":"Simple Tweaks Plugin",
+    "Name":"Not Simple Tweaks Plugin",
     "Punchline":"This was supposed to be simple...",
     "Description":"A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
     "Changelog":"NET 8\r\nBug Fixes",
@@ -9,7 +9,7 @@
     "Tags":null,
     "CategoryTags":null,
     "IsHide":false,
-    "InternalName":"SimpleTweaksPlugin",
+    "InternalName":"NotSimpleTweaksPlugin",
     "AssemblyVersion":"1.9.7.4",
     "TestingAssemblyVersion":null,
     "IsTestingExclusive":false,
