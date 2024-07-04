@@ -1,0 +1,25 @@
+[
+    {
+    "Author": "veyn",
+    "Name": "Boss Mod",
+    "Punchline": "Don't fail at raid mechanics anymore",
+    "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+    "Tags": [],
+    "InternalName": "BossMod",
+    "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
+    "DownloadCount": 166994,
+    "LastUpdate": 1717776784980,
+    "DownloadLinkInstall": "https://github.com/Chrominus/plugin/raw/main/bossmod/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Chrominus/plugin/raw/main/bossmod/latest.zip",
+    "AssemblyVersion": "0.0.0.164",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "9",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/30/image-4mbxiq5k4pl.png",
+      "https://s3.puni.sh/media/plugin/30/image-nc231jzj2gb.png",
+      "https://s3.puni.sh/media/plugin/30/image-3nufuhgwbhl.png"
+    ]
+  }
+]
