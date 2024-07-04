@@ -13,7 +13,7 @@
     "DownloadLinkUpdate": "https://github.com/Chrominus/plugin/raw/main/bossmod/latest.zip",
     "AssemblyVersion": "0.0.0.165",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
+    "DalamudApiLevel": "10",
     "Changelog": "",
     "IconUrl": "https://s3.puni.sh/media/plugin/30/icon-1x16xz3evsu.png",
     "ImageUrls": [
