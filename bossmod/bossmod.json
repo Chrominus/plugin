@@ -1,0 +1,12 @@
+{
+  "Author": "veyn",
+  "Name": "Boss Mod",
+  "InternalName": "BossMod",
+  "AssemblyVersion": "0.0.0.164",
+  "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://git.annaclemens.io/ascclemens/PeepingTom",
+  "DalamudApiLevel": 10,
+  "LoadPriority": 0,
+  "Punchline": "Don't fail at raid mechanics anymore"
+}
